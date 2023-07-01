@@ -14,7 +14,7 @@ Main implementation of [Con<sup>2</sup>DA: Simplifying Semi-supervised Domain Ad
 @inproceedings{
 perez-carrasco2021conda,
 title={Con2DA}: Simplifying Semi-supervised Domain Adaptation by Learning Consistent and Contrastive Feature Representations},
-author={Manuel Ignacio P{\'e}rez-Carrasco and Pavlos Protopapas and Guillermo Cabrera-Vives},
+author={Manuel Ignacio Perez-Carrasco and Pavlos Protopapas and Guillermo Cabrera-Vives},
 booktitle={NeurIPS 2021 Workshop on Distribution Shifts: Connecting Methods and Applications},
 year={2021},
 url={https://openreview.net/forum?id=-JFwI38C6Qo}
