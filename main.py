@@ -53,7 +53,7 @@ def parse():
                         help="Hyperparameter temperature.")
     parser.add_argument("--threshold", type=float, default=0.9,
                         help="Hyperparameter threshold.")
-    parser.add_argument("--N", type=int, default=1,
+    parser.add_argument("--N", type=int, default=2,
                         help="Hyperparameter N for RandAug.")
     parser.add_argument("--M", type=int, default=10,
                         help="Hyperparameter M for RandAug")
@@ -70,7 +70,7 @@ def parse():
     
     args = parser.parse_args()
     
-    parent_dir = 'Ablation/results'
+    parent_dir = './results'
     job_name = '{}_{}_{}_{}_{}shots_temp{}_lr{}_bs{}_n{}_m{}_prior_gray'.format(args.domain, args.source, args.target,
                args.model_name, args.n_shots, args.temperature, args.lr, args.batch_size, args.N, args.M)
 
