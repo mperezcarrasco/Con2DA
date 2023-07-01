@@ -12,8 +12,8 @@ Main implementation of [Con<sup>2</sup>DA: Simplifying Semi-supervised Domain Ad
 
 ```
 @inproceedings{
-p{\'e}rez-carrasco2021conda,
-title={Con\${\textasciicircum}\{2\}\${DA}: Simplifying Semi-supervised Domain Adaptation by Learning Consistent and Contrastive Feature Representations},
+perez-carrasco2021conda,
+title={Con2DA}: Simplifying Semi-supervised Domain Adaptation by Learning Consistent and Contrastive Feature Representations},
 author={Manuel Ignacio P{\'e}rez-Carrasco and Pavlos Protopapas and Guillermo Cabrera-Vives},
 booktitle={NeurIPS 2021 Workshop on Distribution Shifts: Connecting Methods and Applications},
 year={2021},
