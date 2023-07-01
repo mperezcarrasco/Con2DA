@@ -1,6 +1,6 @@
 # Con2DA
 
-Main implementation of [Con<sup>2</sup>DA: Simplifying Semi-supervised Domain Adaptation by Learning Consistent and Contrastive Feature Representations](https://arxiv.org/pdf/2204.01558.pdf), a SSDA method published in the NeurIPS 2022 Workshop on Distribution Shifts.
+Main implementation of [Con<sup>2</sup>DA: Simplifying Semi-supervised Domain Adaptation by Learning Consistent and Contrastive Feature Representations](https://arxiv.org/pdf/2204.01558.pdf).
 
 ### MODEL ARCHITECTURE
 
